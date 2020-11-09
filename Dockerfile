@@ -3,6 +3,7 @@ FROM ubuntu:latest
 LABEL name="nanih98/firstimage:latest"
 MAINTAINER 'Team DevOps info@example.com'
 
+# Fake commit
 
 RUN set -eux ;\
     apt-get update ;\
