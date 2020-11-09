@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM debian:buster
 
 LABEL name="nanih98/firstimage:latest"
 MAINTAINER 'Team DevOps info@example.com'
